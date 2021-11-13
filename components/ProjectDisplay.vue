@@ -78,7 +78,7 @@ export default {
     ::v-deep .content-holder {
       grid-row: 2;
       grid-column: 1 / -1;
-      padding: 0 24px;
+      padding: 0;
 
       img {
         width: 100%;
