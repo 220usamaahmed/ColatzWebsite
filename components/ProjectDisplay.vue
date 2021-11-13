@@ -38,7 +38,6 @@ export default {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   margin-bottom: 60px;
-  overflow-x: hidden;
 
   ::v-deep .content-holder {
     grid-column: 1 / 9;
