@@ -33,7 +33,6 @@ export default {
 .body-wrapper {
   max-width: 1280px;
   margin: 0 auto;
-  overflow-x: hidden;
 }
 
 </style>

@@ -41,6 +41,7 @@ export default {
 
   ::v-deep .content-holder {
     grid-column: 1 / 9;
+    overflow-x: clip;
 
     img {
       width: 100%;
