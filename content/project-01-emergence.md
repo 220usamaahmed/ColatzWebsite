@@ -1,10 +1,10 @@
 ---
 title: Emergence
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nascetur nunc non sit cras duis scelerisque etiam adipiscing. Enim elit id sed sed molestie augue faucibus. 
+  A few agents which follow geometric paths are spawned on a grid. Mapping the movement of these agents over time generates these emergent patterns.
 
 
-  Aliquam mi nisi sed vel vitae eu, at nisl. Volutpat enim maecenas euismod turpis condimentum.
+  Despite the underlying geometry of the agents being simple, the maps created show far greater complexity.
 tools_used: Processing, Adobe Premier and Lightroom
 order: 2
 ---

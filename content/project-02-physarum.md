@@ -1,10 +1,10 @@
 ---
 title: Physarum
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nascetur nunc non sit cras duis scelerisque etiam adipiscing. Enim elit id sed sed molestie augue faucibus. 
+  The interactions of simple lifeforms following simple rules create the complexity we see in nature.
 
 
-  Aliquam mi nisi sed vel vitae eu, at nisl. Volutpat enim maecenas euismod turpis condimentum.
+  For this project thousands of agents are simulated which over time coalesce into these organic patterns. Changing the initial conditions and the rules followed by the agents give all the variations.
 tools_used: Unity and Adobe Lightroom
 order: 1
 ---
