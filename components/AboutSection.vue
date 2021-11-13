@@ -3,7 +3,7 @@
     <div class="introduction">
       <p>My name is Usama Ahmed Siddiquie.</p>
       <p>
-        My name is Usama Ahmed Siddiquie. This site is a database of my procedural artwork.
+        This site is a database of my procedural artwork.
       </p>
     </div>
     <div class="contact">
