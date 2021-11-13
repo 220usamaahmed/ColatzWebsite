@@ -1,16 +1,15 @@
 <template>
   <div class="about">
     <div class="introduction">
-      <p>My name is Usama Ahmed Siddiquie (or colatz online).</p>
+      <p>My name is Usama Ahmed Siddiquie.</p>
       <p>
-        This site contains work I have done involving visual mediums. Scroll to
-        start viewing my projects.
+        My name is Usama Ahmed Siddiquie. This site is a database of my procedural artwork.
       </p>
     </div>
     <div class="contact">
       <h1>CONTACT</h1>
-      <p><a href="#">sayhello@colatz.com</a></p>
-      <p><a href="#">220usamaahmed on LinkedIn</a></p>
+      <p><a href="mailto:220usamaahmed@gmail.com">220usamaahmed@gmail.com</a></p>
+      <p><a href="https://github.com/220usamaahmed">Github</a></p>
     </div>
   </div>
 </template>

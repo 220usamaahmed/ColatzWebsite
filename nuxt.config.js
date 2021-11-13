@@ -4,18 +4,18 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Colatz | Portfolio',
+    title: 'Colatz | Database for Usama Ahmed',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'My name is Usama Ahmed Siddiquie (or colatz online). This site contains work I have done involving visual mediums.' },
+      { hid: 'description', name: 'description', content: 'My name is Usama Ahmed Siddiquie. This site is a database of my procedural artwork.' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/icon-round-32.ico' }
     ]
   },
 

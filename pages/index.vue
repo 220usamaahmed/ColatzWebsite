@@ -11,7 +11,7 @@
 <script>
 export default {
   async asyncData({ $content, params, error }) {
-    const projects = await $content().fetch();
+    const projects = await $content().sortBy('order', 'desc').fetch();
 
     return { projects };
   },
