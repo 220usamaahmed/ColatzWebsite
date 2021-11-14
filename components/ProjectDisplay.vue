@@ -48,7 +48,7 @@ export default {
       margin-bottom: 120px;
       opacity: 0;
       transform: scale(1.05) translateY(60px);
-      transition: transform 1200ms ease-in-out, opacity 1200ms ease-in-out;
+      transition: transform 1200ms ease-in-out, opacity 600ms ease-in-out;
     }
     
     video {
@@ -56,7 +56,7 @@ export default {
       margin-bottom: 120px;
       opacity: 0;
       transform: scale(1.05) translateY(60px);
-      transition: transform 1200ms ease-in-out, opacity 1200ms ease-in-out;
+      transition: transform 1200ms ease-in-out, opacity 600ms ease-in-out;
     }
 
     .media-enter {
