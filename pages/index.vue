@@ -5,6 +5,8 @@
     <div v-for="(project, index) in projects" v-bind:key="index">
       <div><ProjectDisplay :project="project" :number="index" /></div>
     </div>
+
+    <Footer />
   </div>
 </template>
 
