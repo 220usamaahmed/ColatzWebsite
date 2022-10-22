@@ -33,7 +33,7 @@ export default {
 }
 
 .body-wrapper {
-  max-width: 1280px;
+  max-width: 1080px;
   margin: 0 auto;
 }
 
