@@ -1,0 +1,11 @@
+{
+    “applinks”: {
+        “apps”: [],
+        “details”: [
+            {
+                “appID”: “635Z9MWA24.com.chi.EPICIntegrationSample”,
+                “paths”: [“*”],
+            }
+        ]
+    }
+}
